@@ -20,7 +20,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ZAF
 - South Africa
 - Sudáfrica
 - Afrique du Sud
