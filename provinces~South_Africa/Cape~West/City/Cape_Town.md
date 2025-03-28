@@ -1,117 +1,118 @@
----
+﻿---
 location:
-  - -33.94
-  - 18.47
+- -33.94
+- 18.47
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId: 31301
 isDeleted: false
 confidential: public
 aliases:
-  - Kapstadt
-  - Cape Town
+- Kapstadt
+- "Cape Town"
 has_id_wikidata: Q5465
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Monterrey,81033]]"
-  - "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
-  - "[[/_Standards/WikiData/WD~Aachen,1017]]"
-  - "[[/_Standards/WikiData/WD~Buenos Aires,1486]]"
-  - "[[/_Standards/WikiData/WD~Pune,1538]]"
-  - "[[/_Standards/WikiData/WD~Hangzhou,4970]]"
-  - "[[/_Standards/WikiData/WD~Antwerp,12892]]"
-  - "[[/_Standards/WikiData/WD~Funchal,25444]]"
-  - "[[/_Standards/WikiData/WD~San Francisco,62]]"
-  - "[[/_Standards/WikiData/WD~Nice,33959]]"
-  - "[[/_Standards/WikiData/WD~Johannesburg,34647]]"
-  - "[[/_Standards/WikiData/WD~İzmir,35997]]"
-  - "[[/_Standards/WikiData/WD~Haifa,41621]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Western Cape,127167]]"
-  - "[[/_Standards/WikiData/WD~Union of South Africa,193619]]"
-  - "[[/_Standards/WikiData/WD~Cape Province,849164]]"
-  - "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
-  - "[[/_Standards/WikiData/WD~South Africa during apartheid,3456382]]"
-  - "[[/_Standards/WikiData/WD~British Cape Colony,4806993]]"
-  - "[[/_Standards/WikiData/WD~South Africa,258]]"
-part of: "[[/_Standards/WikiData/WD~Western Cape,127167]]"
-located in or next to body of water: "[[/_Standards/WikiData/WD~Table Bay,531909]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Meyer’s Universum, Fünfter Band,130285551]]"
-member of: "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-said to be the same as: "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
-instance of:
-  - "[[/_Standards/WikiData/WD~big city,1549591]]"
-  - "[[/_Standards/WikiData/WD~port settlement,2264924]]"
-  - "[[/_Standards/WikiData/WD~statistical territorial entity,15042037]]"
-  - "[[/_Standards/WikiData/WD~legislative capital,105742469]]"
-  - "[[/_Standards/WikiData/WD~national capital,108178728]]"
-office held by head of government: "[[/_Standards/WikiData/WD~mayor of Cape Town,3278456]]"
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Monterrey,81033]]'
+- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- '[[/_Standards/WikiData/WD~Aachen,1017]]'
+- "[[/_Standards/WikiData/WD~Buenos Aires,1486]]"
+- '[[/_Standards/WikiData/WD~Pune,1538]]'
+- '[[/_Standards/WikiData/WD~Hangzhou,4970]]'
+- '[[/_Standards/WikiData/WD~Antwerp,12892]]'
+- '[[/_Standards/WikiData/WD~Funchal,25444]]'
+- "[[/_Standards/WikiData/WD~San Francisco,62]]"
+- '[[/_Standards/WikiData/WD~Nice,33959]]'
+- '[[/_Standards/WikiData/WD~Johannesburg,34647]]'
+- '[[/_Standards/WikiData/WD~İzmir,35997]]'
+- '[[/_Standards/WikiData/WD~Haifa,41621]]'
+capital_of:
+- "[[/_Standards/WikiData/WD~Western Cape,127167]]"
+- "[[/_Standards/WikiData/WD~Union of South Africa,193619]]"
+- "[[/_Standards/WikiData/WD~Cape Province,849164]]"
+- "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
+- "[[/_Standards/WikiData/WD~South Africa during apartheid,3456382]]"
+- "[[/_Standards/WikiData/WD~British Cape Colony,4806993]]"
+- "[[/_Standards/WikiData/WD~South Africa,258]]"
+part_of: "[[/_Standards/WikiData/WD~Western Cape,127167]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Table Bay,531909]]"
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
+- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Meyer’s Universum, Fünfter Band,130285551]]"
+member_of: "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
+instance_of:
+- "[[/_Standards/WikiData/WD~big city,1549591]]"
+- "[[/_Standards/WikiData/WD~port settlement,2264924]]"
+- "[[/_Standards/WikiData/WD~statistical territorial entity,15042037]]"
+- "[[/_Standards/WikiData/WD~legislative capital,105742469]]"
+- "[[/_Standards/WikiData/WD~national capital,108178728]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~mayor of Cape Town,3278456]]"
 flag: "[[/_Standards/WikiData/WD~flag of Cape Town,5456717]]"
-head of government: "[[/_Standards/WikiData/WD~Geordin Hill-Lewis,5535621]]"
-topic's main Wikimedia portal: "[[/_Standards/WikiData/WD~Portal_Cape Town,18758741]]"
-open data portal: "[[/_Standards/WikiData/WD~City of Cape Town Open Data Portal,97143576]]"
-on focus list of Wikimedia project: "[[/_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+head_of_government: "[[/_Standards/WikiData/WD~Geordin Hill-Lewis,5535621]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Cape Town,18758741]]"
+open_data_portal: "[[/_Standards/WikiData/WD~City of Cape Town Open Data Portal,97143576]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
 demonym:
-  - capetoniani
-  - Capetonian
-  - Captonien
-  - Captonienne
+- capetoniani
+- Capetonian
+- Captonien
+- Captonienne
 hashtag:
-  - Kapstadt
-  - CapeTown
+- Kapstadt
+- CapeTown
 country: "[[/_Standards/WikiData/WD~South Africa,258]]"
-present in work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
-named after: "[[/_Standards/WikiData/WD~Cape of Good Hope,4092]]"
-located in time zone: "[[/_Standards/WikiData/WD~UTC+02_00,6723]]"
-continent: "[[/_Standards/WikiData/WD~Africa,15]]"
-elevation above sea level: 5
-local dialing code: "45"
-postal code:
-  - "8000"
-  - "8001"
+present_in_work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
+named_after: "[[/_Standards/WikiData/WD~Cape of Good Hope,4092]]"
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+02_00,6723]]'
+continent: '[[/_Standards/WikiData/WD~Africa,15]]'
+elevation_above_sea_level: 5
+local_dialing_code: 45
+postal_code:
+- 8000
+- 8001
 area: 2454.72
-OmegaWiki Defined Meaning: "640402"
-Commons gallery: Cape Town
-Commons category: Cape Town
-UN/LOCODE: ZACPT
+OmegaWiki_Defined_Meaning: 640402
+Commons_gallery: "Cape Town"
+Commons_category: "Cape Town"
+UN_LOCODE: ZACPT
 population: 3776313
-U.S. National Archives Identifier: "10044566"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20del%20Cabo%20desde%20Cabeza%20de%20Le%C3%B3n%2C%20Sud%C3%A1frica%2C%202018-07-22%2C%20DD%2034.jpg
-WOEID: "1591691"
+U_S_National_Archives_Identifier: 10044566
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Ciudad%20del%20Cabo%20desde%20Cabeza%20de%20Le%C3%B3n%2C%20Sud%C3%A1frica%2C%202018-07-22%2C%20DD%2034.jpg"
+WOEID: 1591691
 subreddit: capetown
-native label:
-  - Cape Town
-  - Kaapstad
-  - Motse Kapa
-  - iKapa
-official name: Cape Town
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Town%20-%20Planet%20Imagery.jpg
-panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Town%20CBD%20TblMnt.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/CapeTownPanoramaFromTableMountain%20banner.jpg
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cape%20Town%2C%20South%20Africa.png
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Cape%20Town%20at%20night%20from%20roof%20of%20Strand%20South%20hotel.jpg
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape%20Town%2C%20South%20Africa.svg
-logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Cape%20Town%2C%20South%20Africa.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/South%20Africa%20Districts%20showing%20Cape%20Town.png
-official website: http://www.capetown.gov.za
-DPLA subject term: Cape Town (South Africa)
-GitHub topic: cape-town
-Libris-URI: sq465vxb4c630fl
+native_label:
+- "Cape Town"
+- Kaapstad
+- "Motse Kapa"
+- iKapa
+official_name: "Cape Town"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Town%20-%20Planet%20Imagery.jpg"
+panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Town%20CBD%20TblMnt.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/CapeTownPanoramaFromTableMountain%20banner.jpg"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cape%20Town%2C%20South%20Africa.png"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Downtown%20Cape%20Town%20at%20night%20from%20roof%20of%20Strand%20South%20hotel.jpg"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cape%20Town%2C%20South%20Africa.svg"
+logo_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Cape%20Town%2C%20South%20Africa.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Africa%20Districts%20showing%20Cape%20Town.png"
+official_website: "http://www.capetown.gov.za"
+DPLA_subject_term: "Cape Town (South Africa)"
+GitHub_topic: cape-town
+Libris_URI: sq465vxb4c630fl
 HASC: ZA.WC.CT
-coordinate location: Point(18.423888888 -33.925277777)
-inception: 1652-01-01T00:00:00Z
+coordinate_location: "Point(18.423888888 -33.925277777)"
+inception: "1652-01-01T00:00:00Z"
 ---
+
 # [[Cape_Town]] 
 
  [geo-lon::18.47] 
