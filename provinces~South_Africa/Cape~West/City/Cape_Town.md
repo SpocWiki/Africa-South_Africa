@@ -18,50 +18,50 @@ aliases:
 has_id_wikidata: Q5465
 twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Monterrey,81033]]'
-- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
 - '[[/_Standards/WikiData/WD~Aachen,1017]]'
-- "[[/_Standards/WikiData/WD~Buenos Aires,1486]]"
+- "[[/_Standards/WikiData/WD~Buenos_Aires,1486]]"
 - '[[/_Standards/WikiData/WD~Pune,1538]]'
 - '[[/_Standards/WikiData/WD~Hangzhou,4970]]'
 - '[[/_Standards/WikiData/WD~Antwerp,12892]]'
 - '[[/_Standards/WikiData/WD~Funchal,25444]]'
-- "[[/_Standards/WikiData/WD~San Francisco,62]]"
+- "[[/_Standards/WikiData/WD~San_Francisco,62]]"
 - '[[/_Standards/WikiData/WD~Nice,33959]]'
 - '[[/_Standards/WikiData/WD~Johannesburg,34647]]'
 - '[[/_Standards/WikiData/WD~İzmir,35997]]'
 - '[[/_Standards/WikiData/WD~Haifa,41621]]'
 capital_of:
-- "[[/_Standards/WikiData/WD~Western Cape,127167]]"
-- "[[/_Standards/WikiData/WD~Union of South Africa,193619]]"
-- "[[/_Standards/WikiData/WD~Cape Province,849164]]"
-- "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
-- "[[/_Standards/WikiData/WD~South Africa during apartheid,3456382]]"
-- "[[/_Standards/WikiData/WD~British Cape Colony,4806993]]"
-- "[[/_Standards/WikiData/WD~South Africa,258]]"
-part_of: "[[/_Standards/WikiData/WD~Western Cape,127167]]"
-located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Table Bay,531909]]"
+- "[[/_Standards/WikiData/WD~Western_Cape,127167]]"
+- "[[/_Standards/WikiData/WD~Union_of_South_Africa,193619]]"
+- "[[/_Standards/WikiData/WD~Cape_Province,849164]]"
+- "[[/_Standards/WikiData/WD~City_of_Cape_Town,1185115]]"
+- "[[/_Standards/WikiData/WD~South_Africa_during_apartheid,3456382]]"
+- "[[/_Standards/WikiData/WD~British_Cape_Colony,4806993]]"
+- "[[/_Standards/WikiData/WD~South_Africa,258]]"
+part_of: "[[/_Standards/WikiData/WD~Western_Cape,127167]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Table_Bay,531909]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Meyer’s Universum, Fünfter Band,130285551]]"
-member_of: "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-said_to_be_the_same_as: "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~City of Cape Town,1185115]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Meyer’s_Universum,_Fünfter_Band,130285551]]"
+member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~City_of_Cape_Town,1185115]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~City_of_Cape_Town,1185115]]"
 instance_of:
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~port settlement,2264924]]"
-- "[[/_Standards/WikiData/WD~statistical territorial entity,15042037]]"
-- "[[/_Standards/WikiData/WD~legislative capital,105742469]]"
-- "[[/_Standards/WikiData/WD~national capital,108178728]]"
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~mayor of Cape Town,3278456]]"
-flag: "[[/_Standards/WikiData/WD~flag of Cape Town,5456717]]"
-head_of_government: "[[/_Standards/WikiData/WD~Geordin Hill-Lewis,5535621]]"
-topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Cape Town,18758741]]"
-open_data_portal: "[[/_Standards/WikiData/WD~City of Cape Town Open Data Portal,97143576]]"
-on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~port_settlement,2264924]]"
+- "[[/_Standards/WikiData/WD~statistical_territorial_entity,15042037]]"
+- "[[/_Standards/WikiData/WD~legislative_capital,105742469]]"
+- "[[/_Standards/WikiData/WD~national_capital,108178728]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~mayor_of_Cape_Town,3278456]]"
+flag: "[[/_Standards/WikiData/WD~flag_of_Cape_Town,5456717]]"
+head_of_government: "[[/_Standards/WikiData/WD~Geordin_Hill-Lewis,5535621]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Cape_Town,18758741]]"
+open_data_portal: "[[/_Standards/WikiData/WD~City_of_Cape_Town_Open_Data_Portal,97143576]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 demonym:
 - capetoniani
 - Capetonian
@@ -70,9 +70,9 @@ demonym:
 hashtag:
 - Kapstadt
 - CapeTown
-country: "[[/_Standards/WikiData/WD~South Africa,258]]"
-present_in_work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
-named_after: "[[/_Standards/WikiData/WD~Cape of Good Hope,4092]]"
+country: "[[/_Standards/WikiData/WD~South_Africa,258]]"
+present_in_work: "[[/_Standards/WikiData/WD~Civilization_V,2385]]"
+named_after: "[[/_Standards/WikiData/WD~Cape_of_Good_Hope,4092]]"
 located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+02_00,6723]]'
 continent: '[[/_Standards/WikiData/WD~Africa,15]]'
 elevation_above_sea_level: 5
