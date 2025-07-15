@@ -40,11 +40,18 @@ markerFolder: ./Cape~East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Cape~East|Cape~East]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Cape~East.public|Cape~East.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Cape~East.internal|Cape~East.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Cape~East.protect|Cape~East.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Cape~East.private|Cape~East.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Cape~East.personal|Cape~East.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Cape~East.secret|Cape~East.secret]] 
+
+### #is_/same_as :: [Cape~East](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.md) 
+
+### #is_/same_as :: [Cape~East.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.public.md) 
+
+### #is_/same_as :: [Cape~East.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.internal.md) 
+
+### #is_/same_as :: [Cape~East.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.protect.md) 
+
+### #is_/same_as :: [Cape~East.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.private.md) 
+
+### #is_/same_as :: [Cape~East.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.personal.md) 
+
+### #is_/same_as :: [Cape~East.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.secret.md)
 

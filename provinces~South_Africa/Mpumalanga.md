@@ -40,11 +40,18 @@ markerFolder: ./Mpumalanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Mpumalanga|Mpumalanga]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.public|Mpumalanga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.internal|Mpumalanga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.protect|Mpumalanga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.private|Mpumalanga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.personal|Mpumalanga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Mpumalanga.secret|Mpumalanga.secret]] 
+
+### #is_/same_as :: [Mpumalanga](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.md) 
+
+### #is_/same_as :: [Mpumalanga.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.public.md) 
+
+### #is_/same_as :: [Mpumalanga.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.internal.md) 
+
+### #is_/same_as :: [Mpumalanga.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.protect.md) 
+
+### #is_/same_as :: [Mpumalanga.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.private.md) 
+
+### #is_/same_as :: [Mpumalanga.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.personal.md) 
+
+### #is_/same_as :: [Mpumalanga.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.secret.md)
 

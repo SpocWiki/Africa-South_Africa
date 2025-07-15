@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-25.75,28.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/City/Pretoria|Pretoria]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Pretoria.public|Pretoria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Pretoria.internal|Pretoria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Pretoria.protect|Pretoria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Pretoria.private|Pretoria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Pretoria.personal|Pretoria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Pretoria.secret|Pretoria.secret]] 
+
+### #is_/same_as :: [Pretoria](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.md) 
+
+### #is_/same_as :: [Pretoria.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.public.md) 
+
+### #is_/same_as :: [Pretoria.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.internal.md) 
+
+### #is_/same_as :: [Pretoria.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.protect.md) 
+
+### #is_/same_as :: [Pretoria.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.private.md) 
+
+### #is_/same_as :: [Pretoria.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.personal.md) 
+
+### #is_/same_as :: [Pretoria.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.secret.md)
+

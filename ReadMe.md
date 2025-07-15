@@ -140,10 +140,4 @@ Capital :: [[Pretoria]]
 
 
 
-## Confidential Links & Embeds: 
-- [[South_Africa|South_Africa]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~South/South_Africa.protect|South_Africa.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~South/South_Africa.private|South_Africa.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]] 
+

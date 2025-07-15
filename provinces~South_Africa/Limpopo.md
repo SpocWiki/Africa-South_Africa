@@ -40,11 +40,18 @@ markerFolder: ./Limpopo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Limpopo|Limpopo]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Limpopo.public|Limpopo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Limpopo.internal|Limpopo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Limpopo.protect|Limpopo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Limpopo.private|Limpopo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Limpopo.personal|Limpopo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Limpopo.secret|Limpopo.secret]] 
+
+### #is_/same_as :: [Limpopo](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.md) 
+
+### #is_/same_as :: [Limpopo.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.public.md) 
+
+### #is_/same_as :: [Limpopo.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.internal.md) 
+
+### #is_/same_as :: [Limpopo.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.protect.md) 
+
+### #is_/same_as :: [Limpopo.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.private.md) 
+
+### #is_/same_as :: [Limpopo.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.personal.md) 
+
+### #is_/same_as :: [Limpopo.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Limpopo.secret.md)
 

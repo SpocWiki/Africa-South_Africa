@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-26.25,28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/City/Johannesburg|Johannesburg]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Johannesburg.public|Johannesburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Johannesburg.internal|Johannesburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Johannesburg.protect|Johannesburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Johannesburg.private|Johannesburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Johannesburg.personal|Johannesburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Johannesburg.secret|Johannesburg.secret]] 
+
+### #is_/same_as :: [Johannesburg](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.md) 
+
+### #is_/same_as :: [Johannesburg.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.public.md) 
+
+### #is_/same_as :: [Johannesburg.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.internal.md) 
+
+### #is_/same_as :: [Johannesburg.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.protect.md) 
+
+### #is_/same_as :: [Johannesburg.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.private.md) 
+
+### #is_/same_as :: [Johannesburg.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.personal.md) 
+
+### #is_/same_as :: [Johannesburg.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.secret.md)
+

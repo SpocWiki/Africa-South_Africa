@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -33.94
 - 18.47
@@ -149,10 +149,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town|Kapstadt=Cape_Town]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.public|Kapstadt=Cape_Town.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.internal|Kapstadt=Cape_Town.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.protect|Kapstadt=Cape_Town.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.private|Kapstadt=Cape_Town.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.personal|Kapstadt=Cape_Town.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Kapstadt=Cape_Town.secret|Kapstadt=Cape_Town.secret]] 
+
+### #is_/same_as :: [Cape_Town](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.md) 
+
+### #is_/same_as :: [Cape_Town.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.public.md) 
+
+### #is_/same_as :: [Cape_Town.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.internal.md) 
+
+### #is_/same_as :: [Cape_Town.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.protect.md) 
+
+### #is_/same_as :: [Cape_Town.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.private.md) 
+
+### #is_/same_as :: [Cape_Town.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.personal.md) 
+
+### #is_/same_as :: [Cape_Town.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/City/Cape_Town.secret.md)
+

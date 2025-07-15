@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-29.33,16.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/City/Port_Nolloth|Port_Nolloth]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/City/Port_Nolloth.public|Port_Nolloth.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/City/Port_Nolloth.internal|Port_Nolloth.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/City/Port_Nolloth.protect|Port_Nolloth.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/City/Port_Nolloth.private|Port_Nolloth.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/City/Port_Nolloth.personal|Port_Nolloth.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/City/Port_Nolloth.secret|Port_Nolloth.secret]] 
+
+### #is_/same_as :: [Port_Nolloth](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.md) 
+
+### #is_/same_as :: [Port_Nolloth.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.public.md) 
+
+### #is_/same_as :: [Port_Nolloth.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.internal.md) 
+
+### #is_/same_as :: [Port_Nolloth.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.protect.md) 
+
+### #is_/same_as :: [Port_Nolloth.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.private.md) 
+
+### #is_/same_as :: [Port_Nolloth.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.personal.md) 
+
+### #is_/same_as :: [Port_Nolloth.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/City/Port_Nolloth.secret.md)
+

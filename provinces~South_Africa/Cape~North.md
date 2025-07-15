@@ -40,11 +40,18 @@ markerFolder: ./Cape~North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Cape~North|Cape~North]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Cape~North.public|Cape~North.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Cape~North.internal|Cape~North.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Cape~North.protect|Cape~North.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Cape~North.private|Cape~North.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Cape~North.personal|Cape~North.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Cape~North.secret|Cape~North.secret]] 
+
+### #is_/same_as :: [Cape~North](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.md) 
+
+### #is_/same_as :: [Cape~North.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.public.md) 
+
+### #is_/same_as :: [Cape~North.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.internal.md) 
+
+### #is_/same_as :: [Cape~North.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.protect.md) 
+
+### #is_/same_as :: [Cape~North.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.private.md) 
+
+### #is_/same_as :: [Cape~North.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.personal.md) 
+
+### #is_/same_as :: [Cape~North.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~North.secret.md)
 

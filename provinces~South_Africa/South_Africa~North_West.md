@@ -40,11 +40,18 @@ markerFolder: ./North_West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/North_West|North_West]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/North_West.public|North_West.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/North_West.internal|North_West.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/North_West.protect|North_West.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/North_West.private|North_West.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/North_West.personal|North_West.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/North_West.secret|North_West.secret]] 
+
+### #is_/same_as :: [South_Africa~North_West](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.md) 
+
+### #is_/same_as :: [South_Africa~North_West.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.public.md) 
+
+### #is_/same_as :: [South_Africa~North_West.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.internal.md) 
+
+### #is_/same_as :: [South_Africa~North_West.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.protect.md) 
+
+### #is_/same_as :: [South_Africa~North_West.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.private.md) 
+
+### #is_/same_as :: [South_Africa~North_West.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.personal.md) 
+
+### #is_/same_as :: [South_Africa~North_West.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/South_Africa~North_West.secret.md)
 

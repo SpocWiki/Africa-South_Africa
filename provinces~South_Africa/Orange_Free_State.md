@@ -40,11 +40,18 @@ markerFolder: ./Orange_Free_State/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State|Orange_Free_State]] 
-- [[../../../../../../_public/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.public|Orange_Free_State.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.internal|Orange_Free_State.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.protect|Orange_Free_State.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.private|Orange_Free_State.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.personal|Orange_Free_State.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/South_Africa/Counties/Orange_Free_State.secret|Orange_Free_State.secret]] 
+
+### #is_/same_as :: [Orange_Free_State](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.md) 
+
+### #is_/same_as :: [Orange_Free_State.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.public.md) 
+
+### #is_/same_as :: [Orange_Free_State.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.internal.md) 
+
+### #is_/same_as :: [Orange_Free_State.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.protect.md) 
+
+### #is_/same_as :: [Orange_Free_State.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.private.md) 
+
+### #is_/same_as :: [Orange_Free_State.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.personal.md) 
+
+### #is_/same_as :: [Orange_Free_State.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.secret.md)
 
