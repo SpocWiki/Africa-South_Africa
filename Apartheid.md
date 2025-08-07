@@ -24,3 +24,20 @@ has_id_wikidata: Q11409
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Apartheid) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Apartheid](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.md) 
+
+### #is_/same_as :: [Apartheid.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.public.md) 
+
+### #is_/same_as :: [Apartheid.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.internal.md) 
+
+### #is_/same_as :: [Apartheid.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.protect.md) 
+
+### #is_/same_as :: [Apartheid.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.private.md) 
+
+### #is_/same_as :: [Apartheid.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.personal.md) 
+
+### #is_/same_as :: [Apartheid.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/Apartheid.secret.md)
+
