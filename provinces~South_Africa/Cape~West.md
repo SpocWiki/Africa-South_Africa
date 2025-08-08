@@ -34,7 +34,7 @@ id: Cape~West
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cape~West/
+geojsonFolder: ./Cape~West///
 markerFolder: ./Cape~West/
 ```
 
