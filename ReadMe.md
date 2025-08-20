@@ -1,45 +1,47 @@
 ---
-location: [-28.8175,22.87] 
+location:
+  - -28.8175
+  - 22.87
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 27062
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: South Africa
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- South Africa
-- Sudáfrica
-- Afrique du Sud
-- جنوب أفريقيا
-- 南非
-- Южная Африка
-- the Republic of South Africa
-- la República de Sudáfrica
+  - South Africa
+  - Sudáfrica
+  - Afrique du Sud
+  - جنوب أفريقيا
+  - 南非
+  - Южная Африка
+  - the Republic of South Africa
+  - la República de Sudáfrica
 Languages:
-- zu
-- xh
-- af
-- nso
-- en-ZA
-- tn
-- st
-- ts
-- ss
-- ve
-- nr
+  - zu
+  - xh
+  - af
+  - nso
+  - en-ZA
+  - tn
+  - st
+  - ts
+  - ss
+  - ve
+  - nr
 ---
 
 
