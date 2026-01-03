@@ -52,3 +52,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Drakensberg) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg|Drakensberg]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg.public|Drakensberg.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg.internal|Drakensberg.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg.protect|Drakensberg.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg.private|Drakensberg.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg.personal|Drakensberg.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/Drakensberg.secret|Drakensberg.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Cape~East/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cape~East](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East|Cape~East]] 
 
-### #is_/same_as :: [Cape~East.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.public|Cape~East.public]] 
 
-### #is_/same_as :: [Cape~East.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.internal|Cape~East.internal]] 
 
-### #is_/same_as :: [Cape~East.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.protect|Cape~East.protect]] 
 
-### #is_/same_as :: [Cape~East.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.private|Cape~East.private]] 
 
-### #is_/same_as :: [Cape~East.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.personal|Cape~East.personal]] 
 
-### #is_/same_as :: [Cape~East.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~East.secret|Cape~East.secret]] 
 

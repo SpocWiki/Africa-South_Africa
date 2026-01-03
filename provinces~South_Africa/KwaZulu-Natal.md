@@ -40,17 +40,17 @@ markerFolder: ./KwaZulu-Natal/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [KwaZulu-Natal](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal|KwaZulu-Natal]] 
 
-### #is_/same_as :: [KwaZulu-Natal.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.public|KwaZulu-Natal.public]] 
 
-### #is_/same_as :: [KwaZulu-Natal.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.internal|KwaZulu-Natal.internal]] 
 
-### #is_/same_as :: [KwaZulu-Natal.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.protect|KwaZulu-Natal.protect]] 
 
-### #is_/same_as :: [KwaZulu-Natal.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.private|KwaZulu-Natal.private]] 
 
-### #is_/same_as :: [KwaZulu-Natal.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.personal|KwaZulu-Natal.personal]] 
 
-### #is_/same_as :: [KwaZulu-Natal.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal.secret|KwaZulu-Natal.secret]] 
 

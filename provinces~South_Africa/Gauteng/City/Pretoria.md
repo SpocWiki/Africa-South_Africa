@@ -142,19 +142,20 @@ zoomFeatures: true
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pretoria)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pretoria](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria|Pretoria]] 
 
-### #is_/same_as :: [Pretoria.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.public|Pretoria.public]] 
 
-### #is_/same_as :: [Pretoria.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.internal|Pretoria.internal]] 
 
-### #is_/same_as :: [Pretoria.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.protect|Pretoria.protect]] 
 
-### #is_/same_as :: [Pretoria.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.private|Pretoria.private]] 
 
-### #is_/same_as :: [Pretoria.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.personal|Pretoria.personal]] 
 
-### #is_/same_as :: [Pretoria.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Pretoria.secret|Pretoria.secret]] 
 

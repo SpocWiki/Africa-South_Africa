@@ -101,3 +101,20 @@ IPv6_routing_prefix:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Cape%20Town) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town|University_of_Cape_Town]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town.public|University_of_Cape_Town.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town.internal|University_of_Cape_Town.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town.protect|University_of_Cape_Town.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town.private|University_of_Cape_Town.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town.personal|University_of_Cape_Town.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town/University_of_Cape_Town.secret|University_of_Cape_Town.secret]] 
+

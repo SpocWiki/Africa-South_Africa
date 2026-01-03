@@ -40,17 +40,17 @@ markerFolder: ./Gauteng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauteng](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng|Gauteng]] 
 
-### #is_/same_as :: [Gauteng.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.public|Gauteng.public]] 
 
-### #is_/same_as :: [Gauteng.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.internal|Gauteng.internal]] 
 
-### #is_/same_as :: [Gauteng.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.protect|Gauteng.protect]] 
 
-### #is_/same_as :: [Gauteng.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.private|Gauteng.private]] 
 
-### #is_/same_as :: [Gauteng.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.personal|Gauteng.personal]] 
 
-### #is_/same_as :: [Gauteng.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng.secret|Gauteng.secret]] 
 

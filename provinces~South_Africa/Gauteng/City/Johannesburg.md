@@ -180,19 +180,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Johannesburg) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Johannesburg](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg|Johannesburg]] 
 
-### #is_/same_as :: [Johannesburg.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.public|Johannesburg.public]] 
 
-### #is_/same_as :: [Johannesburg.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.internal|Johannesburg.internal]] 
 
-### #is_/same_as :: [Johannesburg.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.protect|Johannesburg.protect]] 
 
-### #is_/same_as :: [Johannesburg.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.private|Johannesburg.private]] 
 
-### #is_/same_as :: [Johannesburg.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.personal|Johannesburg.personal]] 
 
-### #is_/same_as :: [Johannesburg.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Gauteng/City/Johannesburg.secret|Johannesburg.secret]] 
 

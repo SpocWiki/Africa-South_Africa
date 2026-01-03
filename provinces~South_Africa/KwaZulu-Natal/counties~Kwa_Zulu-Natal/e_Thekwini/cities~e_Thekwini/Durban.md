@@ -42,3 +42,20 @@ markerFolder: ./Durban/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Durban) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban|Durban]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban.public|Durban.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban.internal|Durban.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban.protect|Durban.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban.private|Durban.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban.personal|Durban.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/KwaZulu-Natal/counties~Kwa_Zulu-Natal/e_Thekwini/cities~e_Thekwini/Durban.secret|Durban.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Orange_Free_State/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orange_Free_State](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State|Orange_Free_State]] 
 
-### #is_/same_as :: [Orange_Free_State.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.public|Orange_Free_State.public]] 
 
-### #is_/same_as :: [Orange_Free_State.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.internal|Orange_Free_State.internal]] 
 
-### #is_/same_as :: [Orange_Free_State.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.protect|Orange_Free_State.protect]] 
 
-### #is_/same_as :: [Orange_Free_State.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.private|Orange_Free_State.private]] 
 
-### #is_/same_as :: [Orange_Free_State.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.personal|Orange_Free_State.personal]] 
 
-### #is_/same_as :: [Orange_Free_State.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Orange_Free_State.secret|Orange_Free_State.secret]] 
 

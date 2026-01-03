@@ -76,3 +76,20 @@ date_of_birth:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shaka) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu|Shaka_Zulu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu.public|Shaka_Zulu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu.internal|Shaka_Zulu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu.protect|Shaka_Zulu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu.private|Shaka_Zulu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu.personal|Shaka_Zulu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/History_of_South_Africa/Shaka_Zulu.secret|Shaka_Zulu.secret]] 
+

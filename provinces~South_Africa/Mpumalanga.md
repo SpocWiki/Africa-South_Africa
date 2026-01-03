@@ -40,17 +40,17 @@ markerFolder: ./Mpumalanga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mpumalanga](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga|Mpumalanga]] 
 
-### #is_/same_as :: [Mpumalanga.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.public|Mpumalanga.public]] 
 
-### #is_/same_as :: [Mpumalanga.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.internal|Mpumalanga.internal]] 
 
-### #is_/same_as :: [Mpumalanga.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.protect|Mpumalanga.protect]] 
 
-### #is_/same_as :: [Mpumalanga.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.private|Mpumalanga.private]] 
 
-### #is_/same_as :: [Mpumalanga.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.personal|Mpumalanga.personal]] 
 
-### #is_/same_as :: [Mpumalanga.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Mpumalanga.secret|Mpumalanga.secret]] 
 

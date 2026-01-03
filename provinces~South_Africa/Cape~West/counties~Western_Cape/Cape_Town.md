@@ -155,17 +155,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cape_Town](/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town|Cape_Town]] 
 
-### #is_/same_as :: [Cape_Town.public](/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.public|Cape_Town.public]] 
 
-### #is_/same_as :: [Cape_Town.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.internal|Cape_Town.internal]] 
 
-### #is_/same_as :: [Cape_Town.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.protect|Cape_Town.protect]] 
 
-### #is_/same_as :: [Cape_Town.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.private|Cape_Town.private]] 
 
-### #is_/same_as :: [Cape_Town.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.personal|Cape_Town.personal]] 
 
-### #is_/same_as :: [Cape_Town.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/South_Africa/provinces~South_Africa/Cape~West/counties~Western_Cape/Cape_Town.secret|Cape_Town.secret]] 
 
