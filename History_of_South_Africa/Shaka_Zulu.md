@@ -3,25 +3,25 @@ aliases:
   - Shaka kaSenzangakhona
   - "Shaka (the) Zulu (Zulu pronunciation: [ˈʃaːɠa]) and Sigidi kaSenzangakhona"
 has_id_wikidata: Q27695
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+manner_of_death: "[[_Standards/WikiData/WD~homicide,149086|WD~homicide,149086]]"
 sibling:
-  - "[[_Standards/WikiData/WD~Dingane_kaSenzangakhona,470145]]"
-  - "[[_Standards/WikiData/WD~Mpande_kaSenzangakhona,737703]]"
-  - "[[_Standards/WikiData/WD~Umhlangana_kaSenzangakhona,7881545]]"
-place_of_birth: "[[_Standards/WikiData/WD~Mthethwa_Paramountcy,600562]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Zulu_Kingdom,729768]]"
-father: "[[_Standards/WikiData/WD~Senzangakhona_kaJama,2918639]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Nandi,6963230]]"
-place_of_death: "[[_Standards/WikiData/WD~KwaDukuza,10676708]]"
-place_of_burial: "[[_Standards/WikiData/WD~Nonya,21331333]]"
+  - "[[_Standards/WikiData/WD~Dingane_kaSenzangakhona,470145|WD~Dingane_kaSenzangakhona,470145]]"
+  - "[[_Standards/WikiData/WD~Mpande_kaSenzangakhona,737703|WD~Mpande_kaSenzangakhona,737703]]"
+  - "[[_Standards/WikiData/WD~Umhlangana_kaSenzangakhona,7881545|WD~Umhlangana_kaSenzangakhona,7881545]]"
+place_of_birth: "[[_Standards/WikiData/WD~Mthethwa_Paramountcy,600562|WD~Mthethwa_Paramountcy,600562]]"
+country_of_citizenship: "[[_Standards/WikiData/WD~Zulu_Kingdom,729768|WD~Zulu_Kingdom,729768]]"
+father: "[[_Standards/WikiData/WD~Senzangakhona_kaJama,2918639|WD~Senzangakhona_kaJama,2918639]]"
+sex_or_gender: "[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]"
+mother: "[[_Standards/WikiData/WD~Nandi,6963230|WD~Nandi,6963230]]"
+place_of_death: "[[_Standards/WikiData/WD~KwaDukuza,10676708|WD~KwaDukuza,10676708]]"
+place_of_burial: "[[_Standards/WikiData/WD~Nonya,21331333|WD~Nonya,21331333]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
-position_held: "[[_Standards/WikiData/WD~king,12097]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-occupation: "[[_Standards/WikiData/WD~monarch,116]]"
+  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746|WD~Dictionary_of_African_Biography,46002746]]"
+  - "[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803|WD~Africa_An_Encyclopedic_Reference,115653803]]"
+present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]"
+position_held: "[[_Standards/WikiData/WD~king,12097|WD~king,12097]]"
+instance_of: "[[_Standards/WikiData/WD~human,5|WD~human,5]]"
+occupation: "[[_Standards/WikiData/WD~monarch,116|WD~monarch,116]]"
 Commons_category: Shaka
 described_at_URL: https://www.biografiasyvidas.com/biografia/c/chaka.htm
 date_of_death: 1828-09-22T00:00:00Z

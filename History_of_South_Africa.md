@@ -1,8 +1,8 @@
 ---
 aliases:
 has_id_wikidata: Q217184
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~South_Africa,258]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg
 Commons_gallery: History of South Africa
 Commons_category: History of South Africa

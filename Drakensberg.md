@@ -4,27 +4,27 @@ aliases:
   - Maloti
   - Drakensberge
 has_id_wikidata: Q183295
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~KwaZulu_Natal,81725]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~KwaZulu_Natal,81725|WD~KwaZulu_Natal,81725]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~quartzite,237883]]"
-  - "[[_Standards/WikiData/WD~basalt,43338]]"
+  - "[[_Standards/WikiData/WD~quartzite,237883|WD~quartzite,237883]]"
+  - "[[_Standards/WikiData/WD~basalt,43338|WD~basalt,43338]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-highest_point: "[[_Standards/WikiData/WD~Thabana_Ntlenyana,733132]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+highest_point: "[[_Standards/WikiData/WD~Thabana_Ntlenyana,733132|WD~Thabana_Ntlenyana,733132]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~large_igneous_province,792425]]"
-  - "[[_Standards/WikiData/WD~mountain_range,46831]]"
-mountain_range: "[[_Standards/WikiData/WD~Great_Escarpment,_Australia,5599117]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Drakensberg,31508341]]"
+  - "[[_Standards/WikiData/WD~large_igneous_province,792425|WD~large_igneous_province,792425]]"
+  - "[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]"
+mountain_range: "[[_Standards/WikiData/WD~Great_Escarpment,_Australia,5599117|WD~Great_Escarpment,_Australia,5599117]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Drakensberg,31508341|WD~Drakensberg,31508341]]"
 country:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Lesotho,1013]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
 length: 1000
 elevation_above_sea_level: 3482
 coordinate_location: Point(29.533333333 -29.366666666)
