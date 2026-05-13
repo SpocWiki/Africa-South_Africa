@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./KwaZulu-Natal/
 markerFolder: ./KwaZulu-Natal/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

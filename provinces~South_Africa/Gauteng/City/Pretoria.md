@@ -140,7 +140,7 @@ zoomFeatures: true
 > and South Africans sometimes call it the "Jacaranda City", 
 > because of the thousands of jacaranda trees planted along its streets and in its parks and gardens.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pretoria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pretoria) 
 
 
 ## Confidential Links & Embeds: 

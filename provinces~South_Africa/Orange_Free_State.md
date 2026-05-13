@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Orange_Free_State/
 markerFolder: ./Orange_Free_State/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
