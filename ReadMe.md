@@ -730,7 +730,7 @@ dv_UNTERM_Chinese_Formal: 南非共和国
 dv_UNTERM_French_Formal: la République sud-africaine
 dv_UNTERM_Russian: Южная Африка
 dv_UNTERM_Russian_Formal: Южно-Африканская Республика
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Southern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -756,8 +756,8 @@ dv_ISO2: ZA
 dv_ISO3: ZAF
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
-  - '[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+  - '[[../../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+  - '[[../../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa|South_Africa]]'
   - '[[/_public/Earth/Continent/Africa/Africa~South/South_Africa.public|South_Africa.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]]'
@@ -1098,17 +1098,17 @@ dv_has_:
 dv_has_name_de: Südafrika
 dv_Area-Total: 1221037
 dv_Area-Land: 1221040
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: ZA
 dv_Alcohol-l: 9.5
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 22.87
 dv_has_place_latitude: -28.8175
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
-- '[[../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[../../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[../../../../../WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~South/South_Africa|South_Africa]]'
 - '[[/_public/Earth/Continent/Africa/Africa~South/South_Africa.public|South_Africa.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]]'
@@ -1195,7 +1195,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[South_Africa/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1215,7 +1215,7 @@ defaultZoom: 5
 
 ```leaflet
 id: South_Africa_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1243,7 +1243,7 @@ Capital :: [[Pretoria]]
 
 ![[Coat_of_arms_of_South_Africa.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-South-africa.mp3|Anthem-South-africa.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-South-africa.mp3|Anthem-South-africa.mp3]]
 
 ![[Flag_of_South_Africa.svg|350]]
 
